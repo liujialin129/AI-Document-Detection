@@ -85,10 +85,3 @@ python examples/usage_example.py
 ```bash
 python src/api.py
 ```
-
-## 下一步
-
-1. 填写 MiMo 开放平台申请表
-2. 将本项目上传到 GitHub
-3. 部署 Demo 演示
-4. 准备申请材料的附件
